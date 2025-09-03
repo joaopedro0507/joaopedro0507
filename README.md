@@ -12,4 +12,4 @@ Gosto de criar **sites, APIs e projetos interativos**, sempre buscando melhorar 
 - Node.js / Express  
 
 ## 🌐 Redes
-[LinkedIn](www.linkedin.com/in/joao-pedro-albano-cordeiro-28a0a2379) | [GitHub](https://github.com/joaopedro0507)
+[LinkedIn](https://www.linkedin.com/feed/) | [GitHub](https://github.com/joaopedro0507)
