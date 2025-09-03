@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João Pedro!
 
-<!--
-**joaopedro0507/joaopedro0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do **Ensino Médio Integral** e estou aprendendo programação com foco em **desenvolvimento web**.  
+Gosto de criar **sites, APIs e projetos interativos**, sempre buscando melhorar minhas habilidades.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- HTML  
+- CSS  
+- JavaScript  
+- Node.js / Express  
+
+## 🌐 Redes
+[LinkedIn](www.linkedin.com/in/joao-pedro-albano-cordeiro-28a0a2379) | [GitHub](https://github.com/joaopedro0507)
